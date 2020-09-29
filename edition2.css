@@ -1,8 +1,14 @@
 <head>
 <style>
+.box{width:500px;margin:0 auto;}
+.hw{width:500px;height:700px;}
+
+
 body {
     background-color: darksalmon;
     background-image: url('sky.jpg');
+    background-repeat: repeat-y;
+    background-position: 440px 60px;
 }
 
 h1 {
@@ -10,7 +16,8 @@ h1 {
   margin-left: 20px;
 }
 
-p.sunshine{
+div.hw{
+    margin-left: 440px;
   margin-top: 20px;  
 }
 
