@@ -1,6 +1,18 @@
-<body { align="center" background="sky.jpg"}>
+<head>
+<style>
+body {
+    background-color: darksalmon;
+    background-image: url('sky.jpg');
+}
 
 h1 {
   color: navy;
   margin-left: 20px;
 }
+
+p.sunshine{
+  margin-top: 20px;  
+}
+
+</style>
+</head>
